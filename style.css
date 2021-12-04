@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+#box{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    margin: 50px;
+}
